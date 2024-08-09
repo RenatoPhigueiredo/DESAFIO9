@@ -1,0 +1,40 @@
+    carros{
+        position: static;
+        border-collapse: collapse;
+       
+    }
+    .prf{
+text-align: center;
+font-size: medium;
+font-family: 'Times New Roman', Times, serif;
+background-color: brown;
+position: static;
+
+    }
+    .prf2{
+        color: rgb(0, 0, 0);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: aqua;
+position: static;
+
+    }
+    .rodapé{
+        background-color: brown;
+        text-align: center;
+    
+    }
+
+        img{
+            height: 450px;
+            right: 550px;
+            position: static;
+           
+        }
+        body{
+            background-color: rgb(255, 232, 202);
+        }
+        .img2{
+            height: 425px;
+            right: 350px;
+            position: static;
+        }
